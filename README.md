@@ -33,28 +33,28 @@
 
 ### 🛠️ Tech Stack
 
-#### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00.svg?logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Java-ED8B00.svg?logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" />
 
-#### Backend / AI / LLM
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000.svg?logo=express&logoColor=white)
-![LangChain.js](https://img.shields.io/badge/LangChain.js-121D33?logo=chainlink&logoColor=white)
-![LLM APIs](https://img.shields.io/badge/LLM%20APIs-FF6B00?logo=ai&logoColor=white)
+  <!-- Backend / AI / LLM -->
+  <img src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000.svg?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain.js-121D33.svg?logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM%20APIs-FF6B00?logo=ai&logoColor=white" />
 
-#### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E.svg?logo=sqlite&logoColor=white)
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E.svg?logo=sqlite&logoColor=white" />
 
-#### Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white)
-
----
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white" />
+</p>
 
 ### 📊 GitHub Stats
 
