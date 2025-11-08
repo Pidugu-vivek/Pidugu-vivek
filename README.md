@@ -3,7 +3,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/Pidugu-vivek">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%26+LLM+Enthusiast;Backend+Developer;Building+AI+Projects+that+Solve+Real+Problems;Express.js+%7C+MongoDB+%7C+LangChain.js">
+    
   </a>
 </p>
 
